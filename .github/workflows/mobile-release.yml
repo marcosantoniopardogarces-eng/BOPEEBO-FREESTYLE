@@ -7,7 +7,7 @@ permissions:
 
 env:
   PROJECT_NAME: PsychEngine
-  REPO_PATH: marcosantoniopardogarces-eng/cp:-cannot-stat-'/storage/emulated/0/Download/subirgit.sh':-No-such-file-or-directory
+  REPO_PATH: marcosantoniopardogarces-eng/BOPEEBO-FREESTYLE
 
 jobs:
   get-commit-hash:
