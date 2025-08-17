@@ -1,0 +1,207 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "ALT UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "ALT LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "ALT DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-70, -100],
+			"anim": "punchHigh1",
+			"fps": 24,
+			"name": "Punchhigh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-70, -100],
+			"anim": "punchLow1",
+			"fps": 24,
+			"name": "Punchlow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-80, -100],
+			"anim": "punchHigh2",
+			"fps": 24,
+			"name": "Otherhigh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-80, -100],
+			"anim": "punchLow2",
+			"fps": 24,
+			"name": "Otherlow",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-140, -100],
+			"anim": "block",
+			"fps": 24,
+			"name": "Block",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "Dodge",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-150, -100],
+			"anim": "hitSpin",
+			"fps": 24,
+			"name": "Fidget Spinner",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-130, -100],
+			"anim": "uppercutHit",
+			"fps": 24,
+			"name": "Pain",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "fakeout",
+			"fps": 24,
+			"name": "V sign",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "hey",
+			"fps": 24,
+			"name": "V sign",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-120, -100],
+			"anim": "hitHigh",
+			"fps": 24,
+			"name": "Hit high",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-120, -100],
+			"anim": "hitLow",
+			"fps": 24,
+			"name": "Hit low",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "uppercut",
+			"fps": 24,
+			"name": "uppercut",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [-100, -100],
+			"anim": "uppercutPrep",
+			"fps": 24,
+			"name": "Pre-uppercut",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [-100, -100],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle",
+			"indices": []
+		},
+		{
+			"offsets": [-100, -100],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "ALT RIGHT"
+		},
+		{
+			"loop": true,
+			"offsets": [-100, -100],
+			"anim": "uppercutFreeze",
+			"fps": 1,
+			"name": "uppercut",
+			"indices": [8]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/BF-blazin",
+	"position": [-240, -70],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [49, 176, 209],
+	"camera_position": [420, -255],
+	"sing_duration": 999,
+	"scale": 1.75,
+	"_editor_isPlayer": true
+}
